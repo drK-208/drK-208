@@ -8,4 +8,4 @@
 ## 💼 My stack
 ![Taiwlind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NextJS](https://img.shields.io/badge/nextdotjs-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-181818?style=for-the-badge&logo=nextdotjs&logoColor=white)
